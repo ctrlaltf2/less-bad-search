@@ -1,8 +1,6 @@
 # https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt
 code-examples.net
-kotaeta.com
 answer-id.com
-code.i-harness.com
 living-sun.com
 qastack.jp
 qastack.ru
@@ -36,10 +34,8 @@ www.javaer101.com
 voidcc.com
 siwib.org
 fluffyfables.com
-www.fixes.pub
 knews.vip
 isolution.pro
-uwenku.com
 lycaeum.dev
 brocante.dev
 classmethod.dev
@@ -76,14 +72,12 @@ noblenaz.org
 www.py4u.net
 culinarydegree.info
 safehavenpetrescue.org
-qapicks.com
 issues-world.com
 narkive.jp
 ourladylakes.org
 intellipaat.com
 article.docway.net
 xiu2.net
-codehero.jp
 quabr.com
 www.webdevqa.jp.net
 qapicks.com
@@ -93,7 +87,6 @@ www.codenong.com
 cainiaojiaocheng.com
 routinepanic.com
 pythonwd.com
-tutorialmore.com
 pretagteam.com
 www.titanwolf.org
 coderedirect.com
@@ -101,7 +94,6 @@ ostack.cn
 easysavecode.com
 webdevdesigner.com
 www.ghcc.net
-developreference.com
 www.semicolonworld.com
 tipsfordev.com
 www.qi-u.com
@@ -118,24 +110,226 @@ www.generacodice.com
 # https://raw.githubusercontent.com/arosh/ublacklist-github-translation/master/uBlacklist.txt
 bleepcoder.com
 githubja.com
-gitmemory.com
 giters.com
 githubmemory.com
 wenyanet.com
-issueexplorer.com
-opensourcelibs.com
-awesomeopensource.com
 findbestopensource.com
 githubhelp.com
 golangrepo.com
-gitmemory.cn
 pythonissues.com
 reposhub.com
 
+# https://raw.githubusercontent.com/kecrily/anti-content-farm/master/main.txt
+# GitHub
+## GitHub Info
+gitmemory.com
+gitmemory.cn
+opensourcelibs.com
+fall.asia
+hao0452.net
+releaseeye.info
+xscode.shakuro.info
+google-yandex.info
+bestofphp.com
+awesomeopensource.com
+## GitHub Mirror
+yizimg.com
+diveh.xyz
+gateway.web.tr
+# Wikipedia
+koudaiwiki.com
+wikizero.com
+wikiwand.com
+# Wikisource
+zhonghuashu.com
+# StackOverflow
+coder.work
+# SEO Query Tool (They will create some permanent query result links based on the domain name)
+aizhan.com
+# Bad Site Collection
+rcggzy.cn
+277a.com
+kulangdh.com
+advos.cn
+susoba.com
+192link.com
+1d9z.com
+bxmao.net
+abcdao.com
+isys.top
+duote.com
+948v.com
+298.life
+gongxiang.club
+xinzhandao.com
+ezgckg.com
+tspweb.com
+brbtyt.com
+wpwsb.com
+www.ydxpt.com
+duboot.com
+urpimp.com
+hzsvn.com
+feilikesi.com
+demxs.com
+jooko.info
+cashsave.org
+xkyn.com
+gaogevip.com
+07yue.com
+cczclc.com
+ok-3e.com
+usdiversityvisa.com
+cciac.org
+
+# https://raw.githubusercontent.com/proudust/uBlacklist-Subscription/master/blacklist.txt
+# Excerpts
+## GitHub issues duplicates
+gitanswer.com
+issueexplorer.com
+lifesaver.codes
+
+# SO Machine-translation
+coredump.biz
+develop-bugs.com
+developreference.com
+programqa.com
+switch-case.com
+uwenku.com
+365airsoft.com
+alwaysemmyhope.com
+answeright.com
+ask-ubuntu.ru
+askdev.info
+askdev.ru
+askvoprosy.com
+bestecode.com
+bildiredi.com
+bonprog.com
+brokencontrollers.com
+bugsdb.com
+ciupacabra.com
+code-adviser.com
+code.i-harness.com
+codechacha.com
+codeday.me
+codehero.jp
+codeindex.ru
+codengineering.ru
+coderquestion.ru
+de-vraag.com
+donolik.com
+e-learn.cn
+ffff65535.com
+fooobar.com
+husl.ru
+ichi.pro
+icode9.com
+issue.life
+it-swarm.asia
+it-swarm.dev
+it-swarm.net
+it-swarm.xyz
+itdaan.com
+itranslater.com
+ja.coder.work
+kompsekret.ru
+kotaeta.com
+legkovopros.ru
+myht.ru
+oipapio.com
+profikoder.com
+progaide.com
+progexact.com
+pytannie.com
+python5.com
+qa-help.ru
+qa.1r1g.com
+qa.codeflow.site
+qacode.ru
+qarchive.ru
+qarus.ru
+quick-geek.github.io
+riptutorial.com
+rstopup.com
+soinside.com
+sozdizimi.com
+sprosi.pro
+src-bin.com
+stackanswers.net
+stackovernet.com
+stackoverrun.com
+stackru.com
+stackz.ru/en
+stackz.ru/ru
+steakrecords.com
+switch-case.ru
+thinbug.com
+tutorialmore.com
+ubuntugeeks.com
+v-resheno.ru
+vike.io
+web-answers.ru
+while-do.com
+www.366service.com
+www.fixes.pub
+www.it-swarm.dev
+www.voidcc.com
+xbuba.com
+xszz.org
+zapytay.com
+
+# File Extension
+fileextension.info
+thefile.org
+extension.info
+file-extension.info
+file-extension.org
+filemagic.com
+files.biz
+htofe.com
+
+# Tutorial stuff
+techacademy.jp
+
+# https://github.com/h-matsuo/uBlacklist-subscription-for-developer/blob/master/list.txt
+366service.com
+asklobster.com
+base64.work
+bunnyinside.com
+codetd.com
+forsenergy.com
+it-mure.jp.net
+it-swarm.
+javaer101.com
+mytory.net
+ojit.com
+programmersought.com
+programmerstart.com
+www.sejuku.net
+
 # Custom
-# sorry not sorry
+## sorry not sorry
 w3schools.com
+geeksforgeeks.org
+### Thinly veiled geeksforgeeks clone
+tutorialsteacher.com
+
+# Random low-quality SO clones
 codegrepper.com
 edureka.co
+flutterq.com
+pythonpool.com
 
-
+# Random low-quality tutorial-type things
+pynative.com
+programiz.com
+bitdegree.org
+softwaretestinghelp.com
+sharpsightlabs.com
+tutorialgateway.org
+studytonight.com
+javatpoint.com
+delftstack.com
+programcreek.com
+pythonguides.com
