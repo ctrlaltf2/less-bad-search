@@ -1,5 +1,5 @@
 # Less Bad Search
-Collecting the web's worst SEO spammers and website copiers and compiling them into a nice uBlock filter + hosts file
+Collecting the web's worst SEO spammers and website copiers and compiling them into a nice uBlock filter + hosts file. Note this is totally opinionated and might filter out totally credible sites.
 
 ## Why?
 Over the years I've noticed results from Google and the like take a nosedive in quality- due both in part to algorithm changes as well as the rise of what I and many others call "SEO Spammers" (companies and/or people that abuse flaws with the ranking algorithm to spam search results with low-quality websites). Apparently I'm not the only one to have noticed this, and recently in some circles there's been discussion about this very thing [^1][^2][^3][^4], even driving some [^5] to use Google's custom search engine feature to create a whitelisted version of Google search which works *very* well for STEM-related subjects despite being a relatively small number of websites.
