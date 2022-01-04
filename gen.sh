@@ -6,6 +6,8 @@ cat hosts | grep -v '^#' | sed -e '/^$/d' | sort | uniq > obj/hosts-uncommented
 
 N_HOSTS=$(wc -l obj/hosts-uncommented | cut -d' ' -f1)
 
+echo $N_HOSTS domains found
+
 # Generate ublock filter list
 ## Generate Google search removals
 paste -d '' <(yes 'google.*##.g:has(a[href*="' | head -n $N_HOSTS) obj/hosts-uncommented <(yes '"])' | head -n $N_HOSTS) > obj/hosts-google
