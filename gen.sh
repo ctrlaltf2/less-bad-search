@@ -2,7 +2,7 @@
 mkdir -p obj
 
 # Remove comments from hosts file
-cat hosts | grep -v '^#' | sed -e '/^$/d' > obj/hosts-uncommented
+cat hosts | grep -v '^#' | sed -e '/^$/d' | sort | uniq > obj/hosts-uncommented
 
 N_HOSTS=$(wc -l obj/hosts-uncommented | cut -d' ' -f1)
 
